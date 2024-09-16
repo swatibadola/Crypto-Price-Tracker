@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans", sans-serif;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+.app{
+  min-height: 100vh;
+  color: white;
+  /* background: linear-gradient(#0b004e, #1d152f, #002834); */
+  /* background: linear-gradient(#004e1e, #152f1ef2, #003134); */
+  background: linear-gradient(#4e3400, #152f1ef2, #003134);
+}
